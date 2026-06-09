@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://preloved-web-mu.vercel.app"),
   title: "ReLove | Katalog Barang Preloved Premium & Terjangkau",
   description:
     "Temukan pakaian, sepatu, tas, dan aksesoris preloved kualitas premium dengan harga hemat. Semua barang dikurasi ketat, cuci bersih, dan siap pakai langsung.",
@@ -41,7 +42,7 @@ export const metadata: Metadata = {
     title: "ReLove | Katalog Barang Preloved Premium & Terjangkau",
     description:
       "Temukan pakaian, sepatu, tas, dan aksesoris preloved kualitas premium dengan harga hemat.",
-    images: ["/og-image.png"],
+    images: ["/og-image1.png"],
   },
 
   // ── Icons ──
