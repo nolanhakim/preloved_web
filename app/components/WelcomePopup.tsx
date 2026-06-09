@@ -28,7 +28,7 @@ export default function WelcomePopup() {
   const close = () => setIsVisible(false);
 
   const waUrl =
-    "https://wa.me/62895422854189?text=Halo%20ReLove%2C%20saya%20lihat%20promo%20di%20website%20dan%20ingin%20tanya%20lebih%20lanjut.";
+    "https://wa.me/62895422854189?text=Halo%20Nul%2C%20saya%20lihat%20promo%20di%20website%20dan%20ingin%20tanya%20lebih%20lanjut.";
 
   return (
     <AnimatePresence>
