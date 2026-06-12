@@ -134,18 +134,6 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 11,
-    name: "Kemeja Flanel Coklat Kotak",
-    price: "Rp 20.000",
-    category: "Kemeja",
-    condition: "Sangat Baik",
-    image: "/products/kemeja flanel coklat.jpeg",
-    description: "no minus",
-    whatsapp: "62895422854189",
-    sellerName: "nul",
-    size: "L"
-  },
-  {
-    id: 12,
     name: "Celana Jeans Levi's Coklat",
     price: "Rp 20.000",
     category: "Celana",
@@ -157,19 +145,7 @@ export const PRODUCTS: Product[] = [
     size: "29"
   },
   {
-    id: 13,
-    name: "Vest Uniqlo Ultra Light Puffer",
-    price: "Rp 10.000",
-    category: "Vest & Jaket",
-    condition: "Like New",
-    image: "/products/vest uniqlo 1.jpeg",
-    description: "no minus",
-    whatsapp: "62895422854189",
-    sellerName: "nul",
-    size: "M"
-  },
-  {
-    id: 14,
+    id: 12,
     name: "Kemeja Flanel coklat abu",
     price: "Rp 25.000",
     category: "Kemeja",
@@ -181,19 +157,7 @@ export const PRODUCTS: Product[] = [
     size: "L"
   },
   {
-    id: 15,
-    name: "Kemeja Semi-Flanel",
-    price: "Rp 15.000",
-    category: "Kemeja",
-    condition: "Sangat Baik",
-    image: "/products/kemeja kotak.jpeg",
-    description: "no minus",
-    whatsapp: "62895422854189",
-    sellerName: "nul",
-    size: "L"
-  },
-  {
-    id: 16,
+    id: 13,
     name: "Celana Cargo Tactical",
     price: "Rp 60.000",
     category: "Celana",
@@ -205,7 +169,7 @@ export const PRODUCTS: Product[] = [
     size: "31"
   },
   {
-    id: 17,
+    id: 14,
     name: "Celana Jogger Training Abu",
     price: "Rp 15.000",
     category: "Celana",
